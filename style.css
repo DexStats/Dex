@@ -1,0 +1,10 @@
+tr:nth-child(even) {background: #ededed}
+/* Change the #CCC for the colored row */
+
+body {
+  border: 1px solid black;
+}
+
+.page-header {
+  text-align: center;
+}
