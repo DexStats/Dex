@@ -1,0 +1,82 @@
+[
+    {
+        "Number": "1",
+        "Name": "Ether Delta",
+        "Total Transactions": 3213224
+    },
+    {
+        "Number": "2",
+        "Name": "IDEX",
+        "Total Transactions": 2161954
+    },
+    {
+        "Number": "3",
+        "Name": "DDEX",
+        "Total Transactions": 202771
+    },
+    {
+        "Number": "4",
+        "Name": "Bancor Network",
+        "Total Transactions": 182285
+    },
+    {
+        "Number": "5",
+        "Name": "DEx.top",
+        "Total Transactions": 141309
+    },
+    {
+        "Number": "6",
+        "Name": "Token Store",
+        "Total Transactions": 96046
+    },
+    {
+        "Number": "7",
+        "Name": "Radar Relay",
+        "Total Transactions": 50968
+    },
+    {
+        "Number": "8",
+        "Name": "Kyber Network",
+        "Total Transactions": 50240
+    },
+    {
+        "Number": "9",
+        "Name": "Oasis Dex",
+        "Total Transactions": 41100
+    },
+    {
+        "Number": "10",
+        "Name": "Airswap",
+        "Total Transactions": 17516
+    },
+    {
+        "Number": "11",
+        "Name": "Star Bit",
+        "Total Transactions": 10353
+    },
+    {
+        "Number": "12",
+        "Name": "Paradex",
+        "Total Transactions": 8210
+    },
+    {
+        "Number": "13",
+        "Name": "Enclaves",
+        "Total Transactions": 7375
+    },
+    {
+        "Number": "14",
+        "Name": "TokenJar",
+        "Total Transactions": 1918
+    },
+    {
+        "Number": "15",
+        "Name": "The Ocean",
+        "Total Transactions": 817
+    },
+    {
+        "Number": "16",
+        "Name": "Shark Relay",
+        "Total Transactions": 707
+    }
+]

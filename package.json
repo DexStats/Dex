@@ -1,0 +1,27 @@
+{
+  "name": "dex",
+  "version": "1.0.0",
+  "description": "Crypto Currency Data",
+  "main": "node server.js",
+  "scripts": {
+    "start": "open http://localhost:3000 && node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimsancan/Dex.git"
+  },
+  "author": "Jimmy Sanders-Cannon & Mansi Prakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimsancan/Dex/issues"
+  },
+  "homepage": "https://github.com/jimsancan/Dex#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
+  }
+}
