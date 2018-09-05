@@ -18,12 +18,13 @@ const tableHeader =
       <th scope="col">Total Volume</th>
       <th scope="col">24h Volume</th>
       <th scope="col">Volume by Currency</th>
+      <th scope="col">Notes</th>
     </tr>
   </thead>`;
 
 function createRows(array) {
-  let html = array.map((item) => {
-    return `<tr class='Number'><td>${item.Number}</td><td class="Name">${item.Name}</td><td class="totalTransactions">${item[`Total Transactions`]}</td></tr>`
+  let htmlRows = array.map((item) => {
+    return `<tr class='Number'><td>${item.Number}</td><td class="Name">${item.Name}</td><td class="totalTransactions">${(item[`Total Transactions`]).toLocaleString()}</td></tr>`
   })
-  document.getElementById('mainTable').innerHTML = tableHeader + html.join('')
+  document.getElementById('mainTable').innerHTML = tableHeader + htmlRows.join('')
 }

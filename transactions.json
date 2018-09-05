@@ -2,81 +2,106 @@
     {
         "Number": "1",
         "Name": "Ether Delta",
-        "Total Transactions": 3213224
+        "Total Transactions": 3225781
     },
     {
         "Number": "2",
         "Name": "IDEX",
-        "Total Transactions": 2161954
+        "Total Transactions": 2266788
     },
     {
         "Number": "3",
         "Name": "DDEX",
-        "Total Transactions": 202771
+        "Total Transactions": 212143
     },
     {
         "Number": "4",
         "Name": "Bancor Network",
-        "Total Transactions": 182285
+        "Total Transactions": 186610
     },
     {
         "Number": "5",
         "Name": "DEx.top",
-        "Total Transactions": 141309
+        "Total Transactions": 165895
     },
     {
         "Number": "6",
         "Name": "Token Store",
-        "Total Transactions": 96046
+        "Total Transactions": 101373
     },
     {
         "Number": "7",
-        "Name": "Radar Relay",
-        "Total Transactions": 50968
+        "Name": "Kyber Network",
+        "Total Transactions": 53965
     },
     {
         "Number": "8",
-        "Name": "Kyber Network",
-        "Total Transactions": 50240
+        "Name": "Radar Relay",
+        "Total Transactions": 52542
     },
     {
         "Number": "9",
         "Name": "Oasis Dex",
-        "Total Transactions": 41100
+        "Total Transactions": 43476
     },
     {
         "Number": "10",
         "Name": "Airswap",
-        "Total Transactions": 17516
+        "Total Transactions": 18219
     },
     {
         "Number": "11",
         "Name": "Star Bit",
-        "Total Transactions": 10353
+        "Total Transactions": 13984
     },
     {
         "Number": "12",
         "Name": "Paradex",
-        "Total Transactions": 8210
+        "Total Transactions": 8712
     },
     {
         "Number": "13",
         "Name": "Enclaves",
-        "Total Transactions": 7375
+        "Total Transactions": 7449
     },
     {
         "Number": "14",
-        "Name": "TokenJar",
-        "Total Transactions": 1918
+        "Name": "Joyso",
+        "Total Transactions": 6491
     },
     {
         "Number": "15",
-        "Name": "The Ocean",
-        "Total Transactions": 817
+        "Name": "TokenJar",
+        "Total Transactions": 2188
     },
     {
         "Number": "16",
+        "Name": "The Ocean",
+        "Total Transactions": 1059
+    },
+    {
+        "Number": "17",
         "Name": "Shark Relay",
-        "Total Transactions": 707
+        "Total Transactions": 712
+    },
+    {
+        "Number": "18",
+        "Name": "Tokenlon",
+        "Total Transactions": 638
+    },
+    {
+        "Number": "19",
+        "Name": "Bamboo Relay",
+        "Total Transactions": 562
+    },
+    {
+        "Number": "20",
+        "Name": "Erc dEX",
+        "Total Transactions": 360
+    },
+    {
+        "Number": "21",
+        "Name": "IDT Exchange",
+        "Total Transactions": 58
     }
 ]
