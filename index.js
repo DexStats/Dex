@@ -23,7 +23,7 @@ const tableHeader =
 
 function createRows(array) {
   let html = array.map((item) => {
-    return `<tr class='Number'><td>${item.Number}</td><td class="Name">${item.Name}</td><td class="totalTransactions">${item[`Total Transactions`]}</td></tr>`
+    return `<tr class='Number'><td>${item.Number}</td><td class="Name">${item.Name}</td><td class="totalTransactions">${item[`Total Transactions`].toLocaleString()}</td></tr>`
   })
   document.getElementById('mainTable').innerHTML = tableHeader + html.join('')
 }

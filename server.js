@@ -24,7 +24,7 @@ request(url, function(error, response, body) {
       let a = $(this);
       holderArr.push([a.html()])
     });
-    holderArr = holderArr.slice(0,16);
+    holderArr = holderArr.slice(0,20);
     var arr = holderArr.map(row => {
       return row[0].split('</td>')
     })
