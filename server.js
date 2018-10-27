@@ -24,7 +24,11 @@ request(url, function(error, response, body) {
       let a = $(this);
       holderArr.push([a.html()])
     });
+<<<<<<< HEAD
     holderArr = holderArr.slice(0,21);
+=======
+    holderArr = holderArr.slice(0,20);
+>>>>>>> webscrape
     var arr = holderArr.map(row => {
       return row[0].split('</td>')
     })
