@@ -23,8 +23,13 @@ const tableHeader =
   </thead>`;
 
 function createRows(array) {
+<<<<<<< HEAD
   let htmlRows = array.map((item) => {
     return `<tr class='Number'><td>${item.Number}</td><td class="Name">${item.Name}</td><td class="totalTransactions">${(item[`Total Transactions`]).toLocaleString()}</td></tr>`
+=======
+  let html = array.map((item) => {
+    return `<tr class='Number'><td>${item.Number}</td><td class="Name">${item.Name}</td><td class="totalTransactions">${item[`Total Transactions`].toLocaleString()}</td></tr>`
+>>>>>>> webscrape
   })
   document.getElementById('mainTable').innerHTML = tableHeader + htmlRows.join('')
 }
